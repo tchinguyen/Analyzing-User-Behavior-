@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study aims to analyze the user adoption patterns of a collaboration tool company that facilitates teams or individuals in organizing, tracking, and managing their work. The primary focus of this analysis is to identify key indicators that predict user adoption and assess the current success of the collaboration tool in encouraging adoption among different user types.
+The primary focus of this analysis is to identify key indicators that predict user adoption and assess the current success of the collaboration tool in encouraging adoption among different user types.
 
 ## Goal
 
