@@ -1,4 +1,4 @@
-# Analyzing User Behavior in a Collaboration Platform
+# User Engagement Analysis in a Collaboration Platform
 
 ## Overview
 
